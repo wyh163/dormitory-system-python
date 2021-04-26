@@ -1,0 +1,6 @@
+flask_login
+pillow
+sqlalchemy < 1.4.0
+flask_sqlalchemy
+sqlalchemy_utils
+pymysql
